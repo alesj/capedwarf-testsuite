@@ -36,10 +36,10 @@
         <version.org.apache.lucene>4.10.4</version.org.apache.lucene>
         <version.org.bouncycastle>1.50</version.org.bouncycastle>
         <version.org.codehaus.exec>1.2.1</version.org.codehaus.exec>
-        <version.org.hibernate.search>5.1.1.Final</version.org.hibernate.search>
+        <version.org.hibernate.search>5.2.0.Beta1</version.org.hibernate.search>
         <version.org.hibernate.hql>1.1.0.Final</version.org.hibernate.hql>
         <version.org.jgroups>3.6.2.Final</version.org.jgroups>
-        <version.org.infinispan>7.2.0.Beta1</version.org.infinispan>
+        <version.org.infinispan>7.2.0.CR1</version.org.infinispan>
         <version.org.jboss.jandex>1.2.2.Final</version.org.jboss.jandex>
         <version.org.jboss.maven.transformer>1.0.0.Beta5</version.org.jboss.maven.transformer>
         <version.org.jivesoftware.smack>3.1.0</version.org.jivesoftware.smack>
